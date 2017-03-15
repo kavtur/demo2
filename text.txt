@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new line2
 new line3
+=======
+new line
+new line4
+>>>>>>> new_branch
